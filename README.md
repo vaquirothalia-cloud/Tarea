@@ -28,7 +28,7 @@ spring.datasource.username=postgres
 spring.datasource.password=1234
 spring.jpa.hibernate.ddl-auto=update
 
-▶️ Ejecución
+▶ Ejecución
 
 Clonar el repositorio:
 
